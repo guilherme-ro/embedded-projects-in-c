@@ -1,4 +1,4 @@
-## 💡 Servidor TCP de Alto Desempenho (epoll)
+## 💡 Servidor TCP de Alto Desempenho Multiplexado (epoll)
 
 Este projeto implementa um **Servidor TCP** simples em Linguagem C para Linux, utilizando uma técnica avançada chamada **I/O Multiplexada** com `epoll`.
 
@@ -24,6 +24,20 @@ O `epoll` resolve isso:
     
 
 Essa abordagem, conhecida como **I/O Multiplexada**, é crucial para construir **sistemas embarcados** e servidores web que precisam ser **rápidos** e **economizar recursos**.
+
+----------
+
+## 📁 Estrutura do Projeto
+
+A estrutura de arquivos sugerida para o projeto é a seguinte:
+
+```
+tcp_epoll_server/
+├── CMakeLists.txt
+└── src/
+    └── server.c
+
+```
 
 ----------
 
