@@ -1,6 +1,6 @@
 ## 💡 Servidor TCP de Alto Desempenho Multiplexado (epoll)
 
-Este projeto implementa um **Servidor TCP** simples em Linguagem C para Linux, utilizando uma técnica avançada chamada **I/O Multiplexada** com `epoll`.
+Este projeto implementa um **servidor TCP** simples e de **alto desempenho** em Linguagem C usando o mecanismo de multiplexação de I/O (Input/Output) **`epoll`** do Linux, configurado no modo **Edge-Triggered (EPOLLET)**.
 
 ### O que é este projeto?
 
