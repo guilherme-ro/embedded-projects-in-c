@@ -22,10 +22,11 @@ ota-client/
 │   └── security_manager.c // Funções de criptografia e verificação (usa OpenSSL).
 │   └── security_manager.h 
 ├── CMakeLists.txt         // Sistema de build moderno.
+├── MockOTAServer.py       // Servidor Mock OTA (Server-Side), servindo o firmware e a assinatura via HTTPS
 ├── firmware_v1.1.0.bin    // [Artefato] Arquivo de firmware de exemplo.
 ├── firmware_v1.1.0.sig    // [Artefato] Assinatura digital VÁLIDA do firmware.
 ├── cert.pem               // [Artefato] Chave Pública/Certificado SSL (CA confiável pelo cliente).
-└── key.pem                // [Artefato] Chave Privada (usada apenas pelo desenvolvedor para assinar).
+└── key.pem                // [Artefato] Chave Privada (usada apenas pelo desenvolvedor para assinar). 
 
 ```
 
