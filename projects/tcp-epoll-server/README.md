@@ -32,7 +32,7 @@ Essa abordagem, conhecida como **I/O Multiplexada**, é crucial para construir *
 A estrutura de arquivos sugerida para o projeto é a seguinte:
 
 ```
-tcp_epoll_server/
+tcp-epoll-server/
 ├── CMakeLists.txt
 └── src/
     └── server.c
