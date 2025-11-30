@@ -98,7 +98,7 @@ Siga os passos abaixo para configurar, compilar e rodar a simulação:
     Bash
     
     ```
-    ./actuator_monitor
+    ./atuator_monitor
     
     ```
     
