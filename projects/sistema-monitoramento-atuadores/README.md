@@ -1,6 +1,6 @@
 # 🤖 Sistema de Monitoramento de Atuadores (Simulação Embarcada)
 
-## # 💡 O que é este projeto?
+## 💡 O que é este projeto?
 
 Este projeto é uma **simulação em C** de um sistema de controle e monitoramento de dois atuadores (como um motor e uma válvula solenoide), focado em aplicar as melhores práticas de **otimização de memória** e **organização de código** essenciais para **sistemas embarcados**1.
 
