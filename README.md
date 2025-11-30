@@ -16,4 +16,5 @@ Cada projeto tem sua própria pasta, contendo o código-fonte e documentação.
 
 - [OTA Client: Sistema de Atualização de Firmware Seguro](./projects/ota-client)
 - [Servidor TCP de Alto Desempenho Multiplexado (epoll)](./projects/tcp-epoll-server)
+- [Sistema de Monitoramento de Atuadores](./projects/sistema-monitoramento-atuadores)
 
