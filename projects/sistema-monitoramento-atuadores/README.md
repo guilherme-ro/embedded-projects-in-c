@@ -2,11 +2,11 @@
 
 ## 💡 O que é este projeto?
 
-Este projeto é uma **simulação em C** de um sistema de controle e monitoramento de dois atuadores (como um motor e uma válvula solenoide), focado em aplicar as melhores práticas de **otimização de memória** e **organização de código** essenciais para **sistemas embarcados**1.
+Este projeto é uma **simulação em C** de um sistema de controle e monitoramento de dois atuadores (como um motor e uma válvula solenoide), focado em aplicar as melhores práticas de **otimização de memória** e **organização de código** essenciais para **sistemas embarcados**.
 
 O código demonstra:
 
--   O uso de **tipos de dados de largura fixa** (`stdint.h`) para garantir portabilidade e otimização de memória2.
+-   O uso de **tipos de dados de largura fixa** (`stdint.h`) para garantir portabilidade e otimização de memória.
     
 -   Organização de dados através de **estruturas (`struct`)** e definição de estados via **enumeração**.
     
